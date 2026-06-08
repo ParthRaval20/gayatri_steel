@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://gayatristeelgroup.com/sitemap.xml
+Sitemap: https://gayatristeel.vercel.app/sitemap.xml
